@@ -1,1 +1,1 @@
-print('Local')
+print('Remote')
