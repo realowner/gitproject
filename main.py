@@ -1,6 +1,7 @@
 
 
 def sum_num(a, b):
+    """DOCS"""
     return a + b
 
 
