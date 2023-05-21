@@ -1,7 +1,7 @@
 
 
 def sum_num(a, b):
-    """docs for func"""
+    """DOCS"""
     return a + b
 
 
