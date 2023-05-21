@@ -1,7 +1,6 @@
 
 
 def sum_num(a, b):
-    """docs for func"""
     return a + b
 
 
